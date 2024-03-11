@@ -1,4 +1,5 @@
 This is an assignment for my machine learning couse. Below are the instructions: 
+
 An automated answer-rating site marks each post in a community forum website as “good” or “bad” based on the quality of the post. The required data in the form of a CSV file is available. The following are the type of qualities that the dataset contains:
 num_words: number of words in the post
 num_characters: number of characters in the post
